@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 import com.mindtree.covidanalysis.service.CovidImplimentation;
 import com.mindtree.covidanalysis.service.CovidInterface;
-
+//hello
 public class CovidAnalysiscontroller {
 	
 	public static void main(String[] args) {
