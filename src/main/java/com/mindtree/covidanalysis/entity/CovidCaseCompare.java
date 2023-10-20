@@ -1,5 +1,5 @@
 package com.mindtree.covidanalysis.entity;
-
+//hello
 import java.sql.Date;
 
 public class CovidCaseCompare {
